@@ -34,7 +34,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 ## welcome
 
-*	`##STAR_&_FORK_This_Repository.`
+*	### STAR_&_FORK_This_Repository.`
 
 ## Swags Like: 
 
