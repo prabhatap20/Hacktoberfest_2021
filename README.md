@@ -1,7 +1,7 @@
 ### Hacktoberfest_2021
 Two sections[push your Repositories]
-1. DSA_&_Algorithm_Repositories
-2. Project_Repositories
+1. ### DSA_&_Algorithm_Repositories
+2. ### Project_Repositories
 
 This Repository Aims To Help Beginners with their first successful pull request and Know How to do open source contributions Also For Intermediate and Advance level contributors as well.:partying_face:
 
